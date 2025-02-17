@@ -103,6 +103,7 @@ The results are summarized as follows:
   However, **Asian food is most ordered all day**, while **American food is least ordered**.
   ![Order trend by category over time](https://github.com/user-attachments/assets/025f3128-1f2e-43ca-95e6-59152088ebea)
 - However, one three out of the eight food items in the Asian category are priced between $5-$12
+![Price Distribution of Top Ordered Asian Dishes](https://github.com/user-attachments/assets/977a95b8-c969-453d-b916-961eaa694efd)
 
 - The three most ordered items by time of day are **Edamame, Tofu Pad Thai, and Cheeseburger** between **12 and 1 PM**.
 
